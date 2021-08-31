@@ -1,13 +1,13 @@
-package com.spring.pre;
+package com.evento.spring.pre;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class EventoSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(EventoSpringApplication.class, args);
 	}
 
 }
